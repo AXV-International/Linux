@@ -6,4 +6,4 @@
   $Application \iff Kernel \iff CPU,\ Memory,\ dan\ Kernel$
   > Kernel nantinya akan digunakan sebagai penghubung antara software dan hardware
 - Distro Linux $\implies$  `https://upload.wikimedia.org/wikipedia/commons/a/ad/2023_Linux_Distributions_Timeline.svg`.
-- 
+- Terminal adalah `antarmuka yang memungkinkan pengguna untuk berinteraksi dengan lingkungan device dengan mengetikkan baris-baris perintah berbentuk teks untuk menjalankan berbagai fungsi/tugas pada device`.
